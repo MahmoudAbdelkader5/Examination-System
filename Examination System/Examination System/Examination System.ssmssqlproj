@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Examination System">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ARWAALAA:ARWAALAA\DELL">
+          <Created>2025-02-07T16:16:54.2898814+02:00</Created>
+          <Type>SQL</Type>
+          <Server>ARWAALAA</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>ITI</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CreationDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ARWAALAA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ARWAALAA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreationDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Daily Backup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ARWAALAA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ARWAALAA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Daily Backup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DCL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ARWAALAA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ARWAALAA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DCL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ARWAALAA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ARWAALAA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DML.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ARWAALAA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ARWAALAA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DML.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Execution.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ARWAALAA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ARWAALAA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Execution.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Function.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ARWAALAA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ARWAALAA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Function.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Indexes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ARWAALAA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ARWAALAA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Indexes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Srored Procedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ARWAALAA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ARWAALAA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Srored Procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ARWAALAA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ARWAALAA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ARWAALAA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ARWAALAA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>View.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

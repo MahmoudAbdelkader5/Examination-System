@@ -1,0 +1,7 @@
+Account Of Examination System DataBase
+
+User              :Password
+1.Admin           :1234
+2.TrainingManager :1234
+3.Instructor      :1234
+4.Student         :1234
